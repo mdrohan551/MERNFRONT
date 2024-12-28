@@ -1,0 +1,12 @@
+@media (max-width: 298px) { /* For mobile devices */
+    .modal-dialog {
+        width: 60%; /* Adjust the width as needed */
+        margin: auto;
+        .modal-content{
+            width: 60%;
+            h4, .h4 {
+                font-size: 10px;
+            }
+        }
+    }
+}
